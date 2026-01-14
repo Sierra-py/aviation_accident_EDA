@@ -46,14 +46,17 @@ The dataset used in the analysis is static and represents a one-time extraction 
 * June and August also show elevated accident frequencies.
 * The lowest accident counts occur during the winter months, particularly January and February.
 * This pattern likely reflects increased flight activity during summer, especially in general aviation, recreational flying, and training operations, rather than seasonal changes in aircraft safety or weather alone.
+  ![Image of Analysis](./month_insight.png)
 
-2. Distribution of Accidents by Day of the Week
+1. Distribution of Accidents by Day of the Week
 
 * Accident counts also vary by day of the week:
 * Saturday has the highest number of recorded accidents.
 * Sunday and Friday follow closely behind.
 * Monday and Tuesday show the lowest accident frequencies.
 * This distribution is consistent with higher weekend flight activity, particularly for non-commercial and leisure operations, which are more prevalent outside standard weekday schedules.
+  ![Image of Analysis](./weekday_insight.png)
+
 
 ---
 ### Interpretation Notes
